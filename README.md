@@ -11,6 +11,7 @@ On album-level:
     "favorites": number of users (asuming this is an online platform, where users are listening to music).
 
 On track-level:
+
         "timesPlayed": the number of times this track has been played,
         "likes": how many likes this track has been given,
         "trackFavorites": how many users have this track as a favorite.
